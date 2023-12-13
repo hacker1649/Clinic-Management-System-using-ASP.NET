@@ -43,7 +43,7 @@ Our project revolves around three major classes of users. Characteristics of eac
 * **4.	Treatment History** – Patient can view the treatment history of appointments which have been completed
 * **5.	Take Appointment** – Patient can view all the departments, and then can select one dept. Then the doctors of that dept are shown. Then patient selects one doctor and the doctor’s profile is then shown along with a ‘take appointment’ button. When the button is clicked, the free slots of that particular doctor are shown. Patient selects a free slot of his choice and then sends request for that free slot to the doctor. The doctor will then approve/reject it.
 * **6.	Notifications** – In this tab, a notification is shown whenever the doctor accepts/rejects the requested appointment.
-* **7.	Feedback** – After a appointment is completed, patient can give feedback about that appointment by rating it from 1 – 5
+* **7.	Feedback** – After a appointment is completed, patient can give feedback about that appointment by rating it from 1 to 5.
 * **8.**	A patient can request for only one appointment at a time and will not be allowed to take more than one appointments until the last appointment has been completed.
 
 ### 2. Doctor:
